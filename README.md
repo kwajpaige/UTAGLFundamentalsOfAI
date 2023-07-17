@@ -1,4 +1,5 @@
 # UTAGLFundamentalsOfAI - Cardio Good Fitness Project 
+The purpose of this project is to become familiar with the fundamental task of reading, exploring, and visualizing data in Python and to solve a business problem through analytics.
 
 ## Project Background
 Explore the dataset to identify differences between the customers of each product. 
